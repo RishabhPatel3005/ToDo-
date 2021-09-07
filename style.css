@@ -1,0 +1,63 @@
+.heading{
+    width: 50%;
+    margin: 30px auto;
+    text-align: center;
+    color:#000000;
+    background: white;
+    border: 2px solid #000000;
+    border-radius: 30px;
+     
+}
+.task_btn{
+    width: 73%;
+    height: 15px;
+    padding: 10px;
+    border: 2px solid #000000;
+}
+.add_btn{
+    height:39px;
+    background:white;
+    color:black;
+    border:2px solid #000000;
+    padding:5px 20px;
+}
+.margin{
+    margin-left:25%;
+}
+table{
+    width: 50%;
+    margin:30px auto;
+    border-collapse:collapse;
+}
+tr{
+    border-bottom: 1px solid black;
+}
+th{
+    font-size:20px;
+    color:black;
+}
+th,td{
+    border:2px;
+    height:30px;
+    padding:2px;
+}
+.task{
+    text-align:left;
+}
+.delete{
+    text-align:center;
+}
+.delete a{
+    color: red;
+    background: white;
+    padding:1px 6px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+body{
+    font-size: 20px;
+}
+form p{
+    color:red;
+    margin:0px;
+}
